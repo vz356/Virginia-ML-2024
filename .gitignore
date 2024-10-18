@@ -1,4 +1,4 @@
-*html
-env/*
+html
+#env/*
 **/libs/*
 data/*
